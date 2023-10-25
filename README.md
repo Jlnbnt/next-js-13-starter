@@ -6,23 +6,23 @@ This starter template provides a **robust foundation** for creating web applicat
 
 ## Table of Contents
 
-1. [Project Overview](#1-project-overview)
-2. [Getting Started](#2-getting-started)
-3. [Scripts](#3-scripts)
-4. [Dependencies](#4-dependencies)
-5. [Development Tools](#5-development-tools)
-6. [Dark mode](#6-dark-mode)
-7. [Get Started and Happy Coding !](#7-get-started-and-happy-coding)
+1. [Project Overview](project-overview)
+2. [Getting Started](getting-started)
+3. [Scripts](scripts)
+4. [Dependencies](dependencies)
+5. [Development Tools](development-tools)
+6. [Dark mode](dark-mode)
+7. [Get Started and Happy Coding !](get-started-and-happy-coding)
 
 # Next.js Material UI Starter
 
-## 1. Project Overview
+## Project Overview
 
 The Next.js Material UI Starter is designed to provide a **solid foundation** for boosting your web development projects. It offers a well-structured and pre-configured environment for your application.
 
 While this template includes the **necessary setup** for a dark mode feature, the configuration and implementation of dark mode are **left to the user's discretion**. This flexibility empowers you to tailor the dark mode to suit your specific application requirements and design preferences.
 
-## 2. Getting Started
+## Getting Started
 
 To begin using this project:
 
@@ -52,7 +52,7 @@ yarn dev
 
 > Your Next.js app will run at [http://localhost:5000](http://localhost:5000).
 
-## 3. Scripts
+## Scripts
 
 - `yarn dev`: Start the development server at port 5000.
 - `yarn build`: Build the Next.js application.
@@ -60,24 +60,24 @@ yarn dev
 - `yarn lint`: Run ESLint for code style checks.
 - `yarn type-check`: Run TypeScript type checking.
 
-## 4. Dependencies
+## Dependencies
 
 This project includes **important dependencies**, such as:
 
 [![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)](https://nextjs.org/) [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FFFFFF)](https://nextjs.org/) [![MaterialUi](https://img.shields.io/badge/mui-007FFF?style=for-the-badge&logo=mui&logoColor=FFFFFF)](https://nextjs.org/) [![Prettier](https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=FFFFFF)](https://nextjs.org/) [![ESLint](https://img.shields.io/badge/eSLint-4B32C3?style=for-the-badge&logo=eSLint&logoColor=FFFFFF)](https://nextjs.org/)
 [![Husky](https://img.shields.io/badge/Husky-181717?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://nextjs.org/)
 
-## 5. Development Tools
+## Development Tools
 
 The project is equipped with **essential development tools** to enhance code quality and consistency.
 
 These tools include **ESLint**, **Prettier**, and **TypeScript** for maintaining **clean and well-structured code**. Additionally, **Husky** and **lint-staged** are set up to **automate code quality checks before commits**.
 
-## 6. Dark Mode
+## Dark Mode
 
 This template includes a **dark mode feature out of the box**. Users can easily toggle between **light and dark themes**, providing a **modern and user-friendly experience** for your web application.
 
-## 7. Get Started and Happy Coding !
+## Get Started and Happy Coding !
 
 With the **Next.js Material UI Starter**, you can embark on a **seamless journey** to build web applications.
 
