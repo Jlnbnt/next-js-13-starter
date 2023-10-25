@@ -77,7 +77,7 @@ These tools include **ESLint**, **Prettier**, and **TypeScript** for maintaining
 
 This template includes a **dark mode feature out of the box**. Users can easily toggle between **light and dark themes**, providing a **modern and user-friendly experience** for your web application.
 
-## Get Started and Happy Coding !
+## Get Started and Happy Coding
 
 With the **Next.js Material UI Starter**, you can embark on a **seamless journey** to build web applications.
 
