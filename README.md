@@ -12,7 +12,7 @@ This starter template provides a **robust foundation** for creating web applicat
 4. [Dependencies](#dependencies)
 5. [Development Tools](#development-tools)
 6. [Dark mode](#dark-mode)
-7. [Get Started and Happy Coding !](#get-started-and-happy-coding)
+7. [Get Started](#get-started)
 
 # Next.js Material UI Starter
 
@@ -77,8 +77,8 @@ These tools include **ESLint**, **Prettier**, and **TypeScript** for maintaining
 
 This template includes a **dark mode feature out of the box**. Users can easily toggle between **light and dark themes**, providing a **modern and user-friendly experience** for your web application.
 
-## Get Started and Happy Coding
+## Get Started
 
-With the **Next.js Material UI Starter**, you can embark on a **seamless journey** to build web applications.
+With the **Next.js Material UI Starter**, you can embark on a **seamless journey** to build web applications. If you encounter any **questions or issues**, don't hesitate to **reach out to the community** for assistance. 
 
-If you encounter any **questions or issues**, don't hesitate to **reach out to the community** for assistance !
+**Happy Coding !**
