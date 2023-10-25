@@ -6,13 +6,13 @@ This starter template provides a **robust foundation** for creating web applicat
 
 ## Table of Contents
 
-1. [Project Overview](project-overview)
-2. [Getting Started](getting-started)
-3. [Scripts](scripts)
-4. [Dependencies](dependencies)
-5. [Development Tools](development-tools)
-6. [Dark mode](dark-mode)
-7. [Get Started and Happy Coding !](get-started-and-happy-coding)
+1. [Project Overview](#project-overview)
+2. [Getting Started](#getting-started)
+3. [Scripts](#scripts)
+4. [Dependencies](#dependencies)
+5. [Development Tools](#development-tools)
+6. [Dark mode](#dark-mode)
+7. [Get Started and Happy Coding !](#get-started-and-happy-coding)
 
 # Next.js Material UI Starter
 
