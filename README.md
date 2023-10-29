@@ -18,7 +18,7 @@ This starter template provides a **robust foundation** for creating web applicat
 
 ## Project Overview
 
-The Next.js Material UI Starter is designed to provide a **solid foundation** for boosting your web development projects. It offers a well-structured and pre-configured environment for your application.
+The Next.js 13 / Material UI Starter is designed to provide a **solid foundation** for boosting your web development projects. It offers a well-structured and pre-configured environment for your application.
 
 While this template includes the **necessary setup** for a dark mode feature, the configuration and implementation of dark mode are **left to the user's discretion**. This flexibility empowers you to tailor the dark mode to suit your specific application requirements and design preferences.
 
