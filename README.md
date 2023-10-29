@@ -1,6 +1,6 @@
 # Next.js 13 / Material UI Starter
 
-Welcome to the **Next.js Material UI Starter project !**
+Welcome to the **Next.js 13 / Material UI Starter project !**
 
 This starter template provides a **robust foundation** for creating web applications using Next.js 13, Material-UI, TypeScript, and a **variety of development tools**.
 
