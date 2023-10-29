@@ -12,7 +12,7 @@ export default function IndexPage() {
         justifyContent: 'center',
       }}
     >
-      <Typography variant="h1">Next.js Starter</Typography>
+      <Typography variant="h1">Next.js 13 Starter</Typography>
     </Box>
   )
 }
