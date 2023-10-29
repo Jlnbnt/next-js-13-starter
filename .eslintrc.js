@@ -108,13 +108,7 @@ module.exports = {
 
     // Enforce using concise optional chain expressions instead of chained logical ands, negated logical ors, or empty objects.
     '@typescript-eslint/prefer-optional-chain': 'error',
-    /* 
-    // Turn off ESLint's built-in rule for empty functions as it can report incorrect errors.
-    'no-empty-function': 'off',
-
-    // Disallow the use of empty functions
-    '@typescript-eslint/no-empty-function': 'error', */
-
+ 
     // Configure grouping rules.
     'import/order': [
       'warn',
