@@ -79,6 +79,6 @@ This template includes a **dark mode feature out of the box**. Users can easily 
 
 ## Get Started
 
-With the **Next.js Material UI Starter**, you can embark on a **seamless journey** to build web applications. If you encounter any **questions or issues**, don't hesitate to **reach out to the community** for assistance. 
+With the **Next.js 13 / Material UI Starter**, you can embark on a **seamless journey** to build web applications. If you encounter any **questions or issues**, don't hesitate to **reach out to the community** for assistance. 
 
 **Happy Coding !**
