@@ -14,7 +14,7 @@ This starter template provides a **robust foundation** for creating web applicat
 6. [Dark mode](#dark-mode)
 7. [Get Started](#get-started)
 
-# Next.js Material UI Starter
+# Next.js 13 / Material UI Starter
 
 ## Project Overview
 
